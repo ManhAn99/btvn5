@@ -1,0 +1,92 @@
+body {
+  width: 300px;
+  height: 600px;
+  border: 2px solid black;
+  margin: auto;
+  font-family: tahoma;
+}
+#anh img {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin: 10px 0 0 100px;
+}
+#name {
+  color: seagreen;
+  font-size: 30px;
+
+  margin-left: 60px;
+}
+#job {
+  color: grey;
+  font-size: 20px;
+  margin: 5px 0 0 110px;
+  margin-bottom: 30px;
+}
+#active {
+  font-size: 15px;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+#lorem {
+  color: gray;
+  font-size: 10px;
+  margin-left: 50px;
+}
+#div4 .special {
+  background-color: grey;
+  width: 100px;
+  height: 70px;
+  float: left;
+
+  margin-top: 30px;
+  line-height: 90px;
+
+  box-sizing: border-box;
+}
+#div4 #div2 {
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+#div4 .special ul {
+  list-style: none;
+}
+#div4 .special p {
+  font-size: 10px;
+  margin-bottom: 300px;
+  text-align: center;
+  position: relative;
+  top: -92px;
+}
+#div4 .special img {
+  width: 20px;
+  height: 20px;
+  margin-top: -20px;
+  position: relative;
+  top: -18px;
+  right: -40px;
+}
+.button img {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin: 40px 10px 30px 10px;
+}
+.button1 img {
+  margin-left: 60px;
+}
+h3 {
+  background-color: rgb(125, 229, 238);
+  width: 100px;
+  height: 50px;
+  position: relative;
+  top: 180px;
+  left: 92px;
+}
+h2 {
+  color: white;
+  position: relative;
+  top: 8px;
+  left: 107px;
+  font-family: "Times New Roman", Times, serif;
+}
